@@ -1,2 +1,7 @@
-# about-me
-for html css
+I am a Computer Science student specializing in Artificial Intelligence and Data Science, with a strong passion for technology, innovation, and continuous learning. Throughout my academic journey, I have gained knowledge and practical experience in areas such as Machine Learning, Introduction to Artificial Intelligence, Web Development, and Embedded Systems. I enjoy exploring how technology can solve real-world problems and create impactful solutions.
+
+I am highly motivated to improve my technical and analytical skills every day. During my studies, I have worked on different academic and personal projects that helped me strengthen my problem-solving abilities, logical thinking, and teamwork skills. I am particularly interested in software development, AI technologies, data-driven systems, and modern digital solutions.
+
+Beyond technical knowledge, I consider myself a responsible, adaptable, and fast-learning person who is always open to new challenges and experiences. I enjoy collaborating with others, learning from professionals, and working in environments that encourage creativity and growth. I believe that discipline, curiosity, and consistency are the key elements of success in the technology field.
+
+My goal is to build a successful career in the tech industry, contribute to innovative projects, and continue expanding my expertise in Artificial Intelligence and software engineering. I am always eager to learn new technologies, improve myself professionally, and gain valuable real-world experience that will help me grow both personally and academically.
